@@ -5,3 +5,5 @@ Notebooks beginning with 01 build matrix-encoded synthetic routes, given a targe
 Notebooks beginning with 02 evaluate and plot bond edit distances from connectivity matrices.
 
 03_plot_matrices.ipynb evaluates bond types for a given route and plots individual connectivity matrices.
+
+04_plot computes various molecular fingerprint based similarity metrics, using selected stemoamide and gelsemine synthesis routes.
